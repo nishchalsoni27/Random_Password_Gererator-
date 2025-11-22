@@ -1,2 +1,2 @@
-# study schedule planner
+#random_strong_password_generator 
 
